@@ -36,14 +36,13 @@ Sunday                   1560 commits        ░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               4 hrs 56 mins       ████████████████████████░   95.68 % 
-HTML                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
-GraphQL                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+TypeScript               6 hrs 54 mins       ████████████████████████░   95.13 % 
+HTML                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 ```
 
 
- Last Updated on 13/10/2023 15:16:17 UTC
+ Last Updated on 14/10/2023 15:14:20 UTC
 <!--END_SECTION:waka-->
 
 [![AlwaysAwake's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlwaysAwake&show_icons=true&theme=github_dark&count_private=true)](https://github.com/AlwaysAwake/AlwaysAwake)
