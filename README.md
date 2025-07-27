@@ -3,6 +3,8 @@
 
 > 📦 167.2 kB Used in GitHub's Storage 
  > 
+> 🏆 525 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 26 Public Repositories 
@@ -34,13 +36,12 @@ Sunday                   9076 commits        ░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               29 mins             ████████████████████████░   95.90 % 
-JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
-EJS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+TypeScript               4 mins              ██████████████████████░░░   89.19 % 
+JSON                     0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
 ```
 
 
- Last Updated on 26/07/2025 15:45:13 UTC
+ Last Updated on 27/07/2025 15:46:57 UTC
 <!--END_SECTION:waka-->
 
 [![AlwaysAwake's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlwaysAwake&show_icons=true&theme=github_dark&count_private=true)](https://github.com/AlwaysAwake/AlwaysAwake)
